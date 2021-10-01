@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1, [COLOR blue][I]-CANALES DE TV-[/COLOR] [/I]
+
+
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1
+https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1 opc 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 1 opc 3
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2 opc 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+#EXTINF:-1tvg-logo="LINK DEL LOGO DE LA SEÑAL" group-title="AQUÍ ESCRIBE LA CATEGORÍA DE SEÑAL", LA 2 opc 3
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u
